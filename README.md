@@ -1,0 +1,1 @@
+[How I built a Honeypot VM, using Azure Sentinel to Track Malicious RDP Connections.pdf](https://github.com/user-attachments/files/17623811/How.I.built.a.Honeypot.VM.using.Azure.Sentinel.to.Track.Malicious.RDP.Connections.pdf)
